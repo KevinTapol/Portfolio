@@ -2800,12 +2800,12 @@ input, select, textarea {
 				width: 30%;
 			}
 
-				#header h1 {
+				#header h1,h2 {
 					font-size: 1.25em;
 				}
 
 					#header h1 br {
-						display: none;
+						/* display: none; */
 					}
 
 				#header > .inner {
@@ -3004,7 +3004,7 @@ input, select, textarea {
 			}
 
 				#header h1 br {
-					display: none;
+					/* display: none; */
 				}
 
 		/* Footer */
